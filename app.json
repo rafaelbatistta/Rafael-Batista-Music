@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Registro de Aulas",
+    "slug": "registro-de-aulas-rafael-batista",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0F0B1A",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.rafaelbatistamusic.registrodeaulas"
+    },
+    "android": {
+      "package": "com.rafaelbatistamusic.registrodeaulas",
+      "adaptiveIcon": {
+        "backgroundColor": "#0F0B1A",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
